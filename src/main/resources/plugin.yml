@@ -1,0 +1,8 @@
+name: WorldRollbacker
+version: '${project.version}'
+main: com.computerwhz.worldrollbacker.WorldRollbacker
+api-version: '1.21'
+load: STARTUP
+
+depend:
+  - Multiverse-Core
