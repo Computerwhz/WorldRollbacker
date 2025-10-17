@@ -1,0 +1,7 @@
+enabled: false
+
+# The world to read from
+source-world:
+
+# The world to be overwritten
+destination-world:
